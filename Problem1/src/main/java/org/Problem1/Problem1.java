@@ -9,8 +9,7 @@ public class Problem1 {
     public static void main(String[] args) {
         // P1.Solve();
         // P2.Solve();
-        
-
+        P3.Solve("asdd", "abtt");
 
     }
 }
